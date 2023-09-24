@@ -7,29 +7,12 @@ Insta-Like-Prediction is a machine learning project that aims to predict the num
 - Python 3.x
 - Jupyter Notebook or any other integrated development environment (IDE)
 
-## Getting Started
-
-To get started with Insta-Like-Prediction, follow the steps below:
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/insta-like-prediction.git
+## Getting Started ⚙️
+1. Clone the repository by running the following command:
 ```
-
-2. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
+git clone https://github.com/[username]/MIS284N-UD-YT-Shorts-Generator.git
 ```
-
-3. Launch Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-4. Open the `MIS284N Unstructured Data Test 3C - Insta Like Prediction.ipynb` file to start the project.
+2. Run the notebook 📓
 
 ## Usage
 
