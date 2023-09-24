@@ -18,37 +18,21 @@ git clone https://github.com/[username]/MIS284N-UD-YT-Shorts-Generator.git
 
 The `MIS284N Unstructured Data Test 3C - Insta Like Prediction.ipynb` file contains the code and instructions to use this project. Follow the step-by-step guide to load the dataset, preprocess the data, train the model, and make predictions.
 
-## Data
-
-The data can be accessed by running the scraper for the public account required.
-
 ## Model Evaluation
 
 The project employs various evaluation metrics to assess the performance of the model. These metrics include Mean Squared Error (MSE) and Root Mean Squared Error (RMSE). Additionally, data visualization techniques are used to analyze the predictions and compare them with the actual number of likes.
 
-## Customization
+## Contributing 🤝
+Contributions to this project are welcome. Here's how you can get involved:
+- Fork the repository
+- Create a new branch (e.g., `feature/add-new-feature`)
+- Make necessary changes and commit them
+- Push your branch to your forked repository
+- Open a pull request explaining your changes
 
-You can modify and improve this project by implementing additional features, experimenting with different machine learning algorithms, or using more complex preprocessing techniques. Feel free to explore and contribute to make this project better.
+Please ensure that your code adheres to the existing code style, and all tests pass successfully before submitting a pull request.
 
-## Contributing
+## License 📄
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-If you want to contribute to Insta-Like-Prediction, follow the steps below:
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes and commit them.
-4. Push your changes to your forked repository.
-5. Submit a pull request.
-
-Please ensure your pull request adheres to the existing code style and best practices.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
-## Acknowledgments
-
-- Special thanks to the open-source community for providing valuable tools and libraries.
-- Thanks to the online tutorial resources that helped in various stages of this project.
-
-Feel free to provide feedback, suggestions, and report any issues. Enjoy predicting Instagram likes with Insta-Like-Prediction!
+Please refer to the respective repositories for more details and license information.
