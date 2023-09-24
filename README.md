@@ -1,5 +1,7 @@
 # Instagram Post Like Prediction
 
+![](https://cdn-images-1.medium.com/max/800/1*-o6aNkIQ7R1vhjjSZPFFmg.png)
+
 Insta-Like-Prediction is a machine learning project that aims to predict the number of likes a post will receive on Instagram. By utilizing the power of artificial intelligence, this project provides users with an estimation of the potential popularity of their posts.
 
 ## Prerequisites
