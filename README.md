@@ -1,13 +1,10 @@
-# Instagram Post Like Prediction
+# Instagram Like Predictor 🤖❤️
 
 ![](https://cdn-images-1.medium.com/max/800/1*-o6aNkIQ7R1vhjjSZPFFmg.png)
 
+## Overview
+
 Insta-Like-Prediction is a machine learning project that aims to predict the number of likes a post will receive on Instagram. By utilizing the power of artificial intelligence, this project provides users with an estimation of the potential popularity of their posts.
-
-## Prerequisites
-
-- Python 3.x
-- Jupyter Notebook or any other integrated development environment (IDE)
 
 ## Getting Started ⚙️
 1. Clone the repository by running the following command:
@@ -15,14 +12,6 @@ Insta-Like-Prediction is a machine learning project that aims to predict the num
 git clone https://github.com/[username]/MIS284N-UD-YT-Shorts-Generator.git
 ```
 2. Run the notebook 📓
-
-## Usage
-
-The `MIS284N Unstructured Data Test 3C - Insta Like Prediction.ipynb` file contains the code and instructions to use this project. Follow the step-by-step guide to load the dataset, preprocess the data, train the model, and make predictions.
-
-## Model Evaluation
-
-The project employs various evaluation metrics to assess the performance of the model. These metrics include Mean Squared Error (MSE) and Root Mean Squared Error (RMSE). Additionally, data visualization techniques are used to analyze the predictions and compare them with the actual number of likes.
 
 ## Contributing 🤝
 Contributions to this project are welcome. Here's how you can get involved:
